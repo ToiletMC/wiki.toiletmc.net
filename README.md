@@ -1,5 +1,5 @@
 ---
-description: 欢迎来到一个奇怪的 Minecraft 服务器
+欢迎来到一个奇怪的 Minecraft 服务器
 ---
 
 # 首页
